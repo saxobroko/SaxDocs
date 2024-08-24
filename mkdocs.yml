@@ -9,7 +9,7 @@ nav:
   - Finance:
     - 'Finance/index.md'
     - Frollo: 'Finance/frollo.md'
-    - Macquarie Bank: 'Finance/macquarie.md'
+    - Saving: 'Finance/saving.md'
     - Investing: 'Finance/investing.md'
   - Stuff in Docker:
     - Index: 'Stuff in Docker/index.md'
