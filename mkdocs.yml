@@ -11,12 +11,6 @@ nav:
     - Frollo: 'Finance/frollo.md'
     - Saving: 'Finance/saving.md'
     - Investing: 'Finance/investing.md'
-  - Server:
-    - Index: 'Server/index.md'
-    - Docs: 'Server/docs.md'
-    - Homepage:
-      - Index: 'Server/Homepage/index.md'
-      - Troubleshooting: 'Server/Homepage/Troubleshoot.md'
   - PC: 
     - Index: 'PC/index.md'
     - Jellyfin: 
@@ -27,6 +21,14 @@ nav:
       - Setting an application up: 'PC/NPM/setup.md'
     - Storj:
       - Index: 'PC/Storj/index.md'
+  - Personal:
+    - 'Personal/will.md'
+  - Server:
+    - Index: 'Server/index.md'
+    - Docs: 'Server/docs.md'
+    - Homepage:
+      - Index: 'Server/Homepage/index.md'
+      - Troubleshooting: 'Server/Homepage/Troubleshoot.md'
 extra:
   generator: false
   social:
