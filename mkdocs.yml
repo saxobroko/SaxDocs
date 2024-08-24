@@ -2,7 +2,7 @@ site_name: SaxDocs
 site_url: https://docs.saxobroko.com
 repo_url: https://github.com/saxobroko/SaxDocs
 copyright: >
-  Copyright &copy; 2015 - 2024 Saxon Brooker
+  Copyright &copy; 2004 - 2024 Saxon Brooker
 nav:
   - Home: index.md
   - Todo: todo.md
@@ -11,21 +11,22 @@ nav:
     - Frollo: 'Finance/frollo.md'
     - Saving: 'Finance/saving.md'
     - Investing: 'Finance/investing.md'
-  - Stuff in Docker:
-    - Index: 'Stuff in Docker/index.md'
+  - Server:
+    - Index: 'Server/index.md'
+    - Docs: 'Server/docs.md'
     - Homepage:
-      - Index: 'Stuff in Docker/Homepage/index.md'
-      - Troubleshooting: 'Stuff in Docker/Homepage/Troubleshoot.md'
-  - Stuff on PC: 
-    - Index: 'Stuff on PC/index.md'
+      - Index: 'Server/Homepage/index.md'
+      - Troubleshooting: 'Server/Homepage/Troubleshoot.md'
+  - PC: 
+    - Index: 'PC/index.md'
     - Jellyfin: 
-      - Start and Stop: 'Stuff on PC/Jellyfin/jellyfin.md'
-      - Issues you might face: 'Stuff on PC/Jellyfin/issues.md'
+      - Start and Stop: 'PC/Jellyfin/jellyfin.md'
+      - Issues you might face: 'PC/Jellyfin/issues.md'
     - NPM:
-      - Intro: 'Stuff on PC/NPM/npm.md'
-      - Setting an application up: 'Stuff on PC/NPM/setup.md'
+      - Intro: 'PC/NPM/npm.md'
+      - Setting an application up: 'PC/NPM/setup.md'
     - Storj:
-      - Index: 'Stuff on PC/Storj/index.md'
+      - Index: 'PC/Storj/index.md'
 extra:
   generator: false
   social:

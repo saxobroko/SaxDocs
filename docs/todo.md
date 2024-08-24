@@ -21,3 +21,4 @@ Things that are still needed to be added. (non-exhaustive)
 	- Current link is <a href="http://192.168.1.200:8056">http://192.168.1.200:8056</a>
 18. How I manage finances
 19. Exteneral Services
+20. Adding Nas to Windows Files
