@@ -22,3 +22,5 @@ Things that are still needed to be added. (non-exhaustive)
 18. How I manage finances
 19. Exteneral Services
 20. Adding Nas to Windows Files
+21. Career, current jobs
+22. Ecologi
