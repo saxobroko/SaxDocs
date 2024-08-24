@@ -1,0 +1,1 @@
+Frollo is the app I use to view my assets/net worth
