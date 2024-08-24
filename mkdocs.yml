@@ -37,11 +37,8 @@ extra:
       link: https://www.instagram.com/Saxo_Broko
   alternate:
     - name: English
-      link: /en/ 
+      link: / 
       lang: en
-    - name: Espanol
-      link: /es/
-      lang: es
 theme:
   name: 'material'
   language: en
