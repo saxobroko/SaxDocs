@@ -1,0 +1,68 @@
+site_name: SaxDocs
+site_url: https://docs.saxobroko.com
+repo_url: https://github.com/saxobroko/SaxDocs
+copyright: >
+  Copyright &copy; 2015 - 2024 Saxon Brooker
+nav:
+  - Home: index.md
+  - Todo: todo.md
+  - Finance:
+    - 'Finance/index.md'
+    - Frollo: 'Finance/frollo.md'
+    - Macquarie Bank: 'Finance/macquarie.md'
+    - Investing: 'Finance/investing.md'
+  - Stuff in Docker:
+    - Index: 'Stuff in Docker/index.md'
+    - Homepage:
+      - Index: 'Stuff in Docker/Homepage/index.md'
+      - Troubleshooting: 'Stuff in Docker/Homepage/Troubleshoot.md'
+  - Stuff on PC: 
+    - Index: 'Stuff on PC/index.md'
+    - Jellyfin: 
+      - Start and Stop: 'Stuff on PC/Jellyfin/jellyfin.md'
+      - Issues you might face: 'Stuff on PC/Jellyfin/issues.md'
+    - NPM:
+      - Intro: 'Stuff on PC/NPM/npm.md'
+      - Setting an application up: 'Stuff on PC/NPM/setup.md'
+    - Storj:
+      - Index: 'Stuff on PC/Storj/index.md'
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/SaxonYourBro/
+    - icon: fontawesome/brands/github
+      link: https://github.com/saxobroko
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/Saxo_Broko
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Espanol
+      link: /es/
+      lang: es
+theme:
+  name: 'material'
+  language: en
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.prune
+    - navigation.top
+    - search.suggest
+    - search.share
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: black
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
