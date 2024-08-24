@@ -24,7 +24,7 @@ Things that are still needed to be added. (non-exhaustive)
 20. Adding Nas to Windows Files
 21. Career, current jobs
 22. Ecologi
-23. Trusted brands // preferred
-24. Subscriptions / Finance
+23. Trusted brands // preferred // Phone plan, fuel, keyboard, phone brand, 
+24. <a href="../Personal/subscriptions">Subscriptions</a>
 25. Political Affiliation
 26. <a href="../Personal/will">Will</a>
