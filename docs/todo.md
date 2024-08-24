@@ -28,3 +28,4 @@ Things that are still needed to be added. (non-exhaustive)
 24. <a href="../Personal/subscriptions">Subscriptions</a>
 25. Political Affiliation
 26. <a href="../Personal/will">Will</a>
+27. AncestryDNA results?
