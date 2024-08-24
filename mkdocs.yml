@@ -22,8 +22,8 @@ nav:
     - Storj:
       - Index: 'PC/Storj/index.md'
   - Personal:
-    - 'Personal/will.md'
     - 'Personal/subscriptions.md'
+    - 'Personal/will.md'
   - Server:
     - Index: 'Server/index.md'
     - Docs: 'Server/docs.md'
