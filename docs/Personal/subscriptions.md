@@ -7,3 +7,4 @@ Everything here is billed monthly unless specified.
 - Mobile Service
 - Rent Bi-weekly
 - Car Insurance (Annually)
+- 
