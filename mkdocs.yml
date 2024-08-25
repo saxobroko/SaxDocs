@@ -5,10 +5,11 @@ repo_name: saxobroko/SaxDocs
 edit_uri: tree/main/docs
 copyright: >
   Copyright &copy; 2004 - 2024 Saxon Brooker
-
 plugins:
   - search
-  - awesome-pages
+  - awesome-pages:
+      collapse_single_pages: true
+      strict: false
   - minify
   - git-revision-date-localized:
       type: timeago
@@ -19,7 +20,6 @@ plugins:
       enable_creation_date: true
       enabled: true
       strict: true
-  - section-index
   - autolinks
   - pub-minifier
   - privacy
