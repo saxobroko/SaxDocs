@@ -1,6 +1,6 @@
 Things that are still needed to be added. (non-exhaustive)
 
-1. Storj
+1. [Storj](storj.md)
 2. Dashboard
 3. Photos
 4. Plex
