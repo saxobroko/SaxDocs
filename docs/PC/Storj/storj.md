@@ -32,7 +32,7 @@ If you check the storj dashboard and it seems like a good amount to cashout foll
 2. Click "Ethereum Wallet"
 3. Click "Metamask"
 4. Log in to Metamask
-  - If it says wrong network just click the coloured blue button 2 times
+    - If it says wrong network just click the coloured blue button 2 times
 5. Click "Storj"
 6. Click transfer
 7. The address you're sending to should be saved under contacts, if it is go to step 14
