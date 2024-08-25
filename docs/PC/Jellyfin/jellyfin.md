@@ -1,5 +1,3 @@
-# How to start and stop Jellyfin
-
 Jellyfin is a versatile software application that I rely on for serving all my video content. It offers a user-friendly interface and a wide range of features that enhance my viewing experience. Whether I want to stream movies, TV shows, or home videos, Jellyfin allows me to access my media library with ease. This incredible software is conveniently accessible directly from my PC, providing me with seamless access to all my favorite videos at any time. With Jellyfin, I can enjoy high-quality video streaming without any hassle, making it an essential tool for all my entertainment needs.
 
 You can access it through <a href="https://stream.saxobroko.com">https://stream.saxobroko.com</a>
@@ -29,3 +27,7 @@ If the taskbar icon is not present or you can't be bothere idk, you can also ope
 2. Search for "Jellyfin" or click on the Jellyfin icon
 ![](0da188a1-image.png)
 3. The first result will open a Command Prompt window and you should be able to access it.
+
+##Adding media
+1. Jellyfin will automatically scan the directory A:/Media
+2. Follow [How to add Media](addingmedia.md) to obtain the files
