@@ -12,7 +12,9 @@ The only page you need to worry about is Proxy Hosts
 ##How to add a new site
 1. Open the proxy hosts page
 2. Click on "Add Proxy Host"
-3. Enter the information for the service you'd like to add
-![](nph.jpg)
-    - example.saxobroko.com can be anything .saxobroko.com
+3. Enter the information for the service you'd like to add (You can use the image below for assistance)
+    - Depending on the service you should enable "Block Common Exploits" and "Websockets Support"
+	- example.saxobroko.com can be anything .saxobroko.com
 4. You may notice that example.saxobroko.com is not yet accessible. This is because we have to set up the outside world to access it. We can do this through [Cloudflare](cloudflare.md)
+	
+![](nph.jpg)
