@@ -1,7 +1,6 @@
 Things that are still needed to be added. (non-exhaustive)
 
 2. Dashboard
-3. [Photos](photos.md)
 4. Plex
 5. Navidrome
 6. Bitwarden
