@@ -21,4 +21,4 @@ I calculated needing $24,000 in emergency by doing 6 months of income in 2022. I
 This alternative bank also has an extra "Save account" this is an extension of my "Don't use" account. It's split between the banks because of the higher interest rate, but lower convenience. Having some in macquarie enables me to quickly transfer when I desperately need it.
 
 ##Alternative Bank
-Every month I will check again on the "Finder" app which savings account has the highest interest rate for the lowest possible effort. By that I mean no silly requirements like using a transaction account 5 times.
+Every month I will check again on the "Finder" app which savings account has the highest interest rate for the lowest possible effort. By that I mean no silly requirements like using a transaction account 5 times. 
