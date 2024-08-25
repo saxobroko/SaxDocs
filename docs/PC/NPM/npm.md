@@ -15,6 +15,6 @@ The only page you need to worry about is Proxy Hosts
 3. Enter the information for the service you'd like to add (You can use the image below for assistance)
     - Depending on the service you should enable "Block Common Exploits" and "Websockets Support"
 	- example.saxobroko.com can be anything .saxobroko.com
-4. You may notice that example.saxobroko.com is not yet accessible. This is because we have to set up the outside world to access it. We can do this through [Cloudflare](cloudflare.md)
+4. You may notice that example.saxobroko.com is not yet accessible. This is because we have to set up the outside world to access it. We can do this through [Cloudflare](cloudflare.md#how-to-add-a-local-website)
 	
 ![](nph.jpg)
