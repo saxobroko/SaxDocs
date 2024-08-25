@@ -1,6 +1,8 @@
 site_name: SaxDocs
 site_url: https://docs.saxobroko.com
 repo_url: https://github.com/saxobroko/SaxDocs
+repo_name: saxobroko/SaxDocs
+edit_uri: tree/main/docs
 copyright: >
   Copyright &copy; 2004 - 2024 Saxon Brooker
 
@@ -20,6 +22,7 @@ plugins:
   - section-index
   - autolinks
   - pub-minifier
+  - privacy
 extra:
   generator: false
   social:
@@ -45,6 +48,8 @@ theme:
     - navigation.top
     - search.suggest
     - search.share
+    - toc.follow
+    - content.action.view
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
