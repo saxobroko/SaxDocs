@@ -32,6 +32,10 @@ extra:
       link: https://github.com/saxobroko
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/Saxo_Broko
+    - icon: fontawesome/brands/linkedin
+      link: https://au.linkedin.com/in/saxonbrooker 
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/saxobroko
   alternate:
     - name: English
       link: / 

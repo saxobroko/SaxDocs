@@ -1,7 +1,7 @@
 Things that are still needed to be added. (non-exhaustive)
 
 2. Dashboard
-3. Photos
+3. [Photos](photos.md)
 4. Plex
 5. Navidrome
 6. Bitwarden
@@ -22,3 +22,4 @@ Things that are still needed to be added. (non-exhaustive)
 23. Trusted brands // preferred // Phone plan, fuel, keyboard, phone brand, 
 25. Political Affiliation
 27. AncestryDNA results?
+28. Weather Station

@@ -1,6 +1,7 @@
 Cloudflare is the service I use for pretty much everything on the outside of the home network. It is the registrar for the domain saxobroko.com, and enables outside access of my networks services.
 
 ##How to login
+1. Go to [dash.cloudflare.com](https://dash.cloudflare.com)
 1. Enter account details
 2. It should come up with a 2FA prompt it'll use the [Yubikey](yubikey.md)
 3. Now you're logged in
@@ -19,7 +20,7 @@ Cloudflare is the service I use for pretty much everything on the outside of the
 10. Go to "Rules" on the sidebar and click "Configuration Rules"
 11. Click "localnet full strict ssl"
 12. Scroll to "Expression Preview" and click edit
-13. paste " or (http.host eq "EXAMPLE.saxobroko.com")" to the end
+13. paste ` or (http.host eq "EXAMPLE.saxobroko.com")` to the end
 	- replace EXAMPLE
 14. Click save
 15. On the sidebar click "Security" and "WAF"
@@ -27,6 +28,6 @@ Cloudflare is the service I use for pretty much everything on the outside of the
 17. Open "block no aus" 
 	- This prevents access from outside of Australia
 18. Scroll to "Expression Preview" and click edit
-19. paste " or (http.host eq "EXAMPLE.saxobroko.com")" to the end
+19. paste ` or (http.host eq "EXAMPLE.saxobroko.com")` to the end
 	- replace EXAMPLE
 20. Click save, and now you're done :)
