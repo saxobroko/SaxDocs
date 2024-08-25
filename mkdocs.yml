@@ -3,33 +3,23 @@ site_url: https://docs.saxobroko.com
 repo_url: https://github.com/saxobroko/SaxDocs
 copyright: >
   Copyright &copy; 2004 - 2024 Saxon Brooker
-nav:
-  - Home: index.md
-  - Todo: todo.md
-  - Finance:
-    - 'Finance/index.md'
-    - Frollo: 'Finance/frollo.md'
-    - Saving: 'Finance/saving.md'
-    - Investing: 'Finance/investing.md'
-  - PC: 
-    - Index: 'PC/index.md'
-    - Jellyfin: 
-      - Start and Stop: 'PC/Jellyfin/jellyfin.md'
-      - Issues you might face: 'PC/Jellyfin/issues.md'
-    - NPM:
-      - Intro: 'PC/NPM/npm.md'
-      - Setting an application up: 'PC/NPM/setup.md'
-    - Storj:
-      - Index: 'PC/Storj/index.md'
-  - Personal:
-    - 'Personal/subscriptions.md'
-    - 'Personal/will.md'
-  - Server:
-    - Index: 'Server/index.md'
-    - Docs: 'Server/docs.md'
-    - Homepage:
-      - Index: 'Server/Homepage/index.md'
-      - Troubleshooting: 'Server/Homepage/Troubleshoot.md'
+
+plugins:
+  - search
+  - awesome-pages
+  - minify
+  - git-revision-date-localized:
+      type: timeago
+      custom_format: "%d. %B %Y"
+      timezone: Australia/Melbourne
+      locale: en
+      fallback_to_build_date: false
+      enable_creation_date: true
+      enabled: true
+      strict: true
+  - section-index
+  - autolinks
+  - pub-minifier
 extra:
   generator: false
   social:
