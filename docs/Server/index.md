@@ -18,7 +18,14 @@ I chose a Synology 920+, because at the time I didn't know how I was going to us
 
 As I wrote this I was thinking it might be time for an upgrade to like DS1823xs+ ($3831) or DS1821+ ($1625.07). After looking at these prices it's clear which one i'm going to go for :face_with_peeking_eye:
 
+##Photos
+###Drive Use
 ![](driveuse.jpg)
 
+
+###Synology DS920+
 ![](https://www.storagereview.com/wp-content/uploads/2021/10/storagereview-synology-diskstation-ds920-plus-full1.jpg)
+
+
+###Synology DX517
 ![](https://img0.asbis.sk/synology-rozsirujuca-jednotka-dx517_ien490092.jpg)
