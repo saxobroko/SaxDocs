@@ -2,6 +2,6 @@ I am committed to sustainability and actively use Ecologi to offset my carbon fo
 
 I could've opted for an Australian business thereby saving money with tax, however I haven't been able to find one good enough.
 
-After writing this i've switched to [Greenfleet CarbonCover 365](https://www.greenfleet.com.au/pages/carbon-cover-365)
+After writing this i've switched to [Greenfleet CarbonCover 365](https://www.greenfleet.com.au/pages/carbon-cover-365) only for Australian Tax purposes
 
 You can visit my Ecologi profile [Here](https://ecologi.com/saxobroko)
